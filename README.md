@@ -5,7 +5,10 @@ This project focuses on evaluating the impact of increasing the visibility of no
 
 ## Objectives
 Estimate Financial Impact: Project the revenue increase if 20% of customers add non-medication items.
+
 A/B Test Design: Randomly assign customers into control (default visibility) and test (enhanced visibility) groups.
+
 Analyze Results: Measure key metrics like the number of customers adding non-medication items and total revenue for each group.
+
 Statistical Significance: Use a chi-squared test to determine if the differences in behavior between the two groups are statistically significant.
 
